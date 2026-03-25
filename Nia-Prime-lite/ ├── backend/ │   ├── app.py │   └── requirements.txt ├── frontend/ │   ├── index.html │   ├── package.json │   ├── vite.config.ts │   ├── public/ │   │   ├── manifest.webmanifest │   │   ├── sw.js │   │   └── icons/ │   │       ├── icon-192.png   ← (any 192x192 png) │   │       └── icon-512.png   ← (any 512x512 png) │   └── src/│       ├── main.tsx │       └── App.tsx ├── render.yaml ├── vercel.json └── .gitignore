@@ -1,0 +1,20 @@
+Nia-Prime-lite/
+├── backend/
+│   ├── app.py
+│   └── requirements.txt
+├── frontend/
+│   ├── index.html
+│   ├── package.json
+│   ├── vite.config.ts
+│   ├── public/
+│   │   ├── manifest.webmanifest
+│   │   ├── sw.js
+│   │   └── icons/
+│   │       ├── icon-192.png   ← (any 192x192 png)
+│   │       └── icon-512.png   ← (any 512x512 png)
+│   └── src/
+│       ├── main.tsx
+│       └── App.tsx
+├── render.yaml
+├── vercel.json
+└── .gitignore
